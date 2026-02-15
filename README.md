@@ -157,11 +157,11 @@ All numerical results are generated reproducibly from the provided code:
 
 ## Project Status
 
-✅ **Assignment 1-5**: Core implementations completed
-✅ **Repository Restructuring**: Organized code and data hierarchically
-✅ **Documentation**: Comprehensive README and method descriptions
-✅ **Results**: Formal LaTeX tables and plots generated
-⏳ **Future Work**: See suggestions above
+- **Assignment 1-5**: Core implementations completed
+- **Repository Restructuring**: Organized code and data hierarchically
+- **Documentation**: Comprehensive README and method descriptions
+- **Results**: Formal LaTeX tables and plots generated
+- **Future Work**: See suggestions above
 
 ## Citation
 
